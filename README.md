@@ -1,2 +1,6 @@
 # miaomiao
-硕大的萨达萨达撒多
+#npm uninstall vue-cli
+#npm install -g @vue/cli
+#npm install
+#npm run serve
+#npm run build
