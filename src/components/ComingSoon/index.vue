@@ -10,7 +10,7 @@
                     <p>主演: 陈建斌,任素汐,潘斌龙</p>
                     <p>今天55家影院放映607场</p>
                 </div>
-                <div class="btn_mall">
+                <div class="btn_mall" >
                     购票
                 </div>
             </li>
